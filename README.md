@@ -24,11 +24,3 @@
 <a href="https://www.facebook.com/bulcOfficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mriceflame" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bulc_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mriceflame1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCnUTlC247CzRapVFlB3aMpw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCGjjMUFNXSgW_jVUiI1c-Iw" height="30" width="40" /></a>
-
-<p align="center">
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bahria-University-Lahore-Campus&show_icons=true&locale=en&layout=compact" alt="mriceflame" />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mriceflame&show_icons=true&locale=en" alt="mriceflame" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bahria-University-Lahore-Campus&" alt="mriceflame" /></p>
