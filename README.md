@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bahria-University-Lahore-Campus&label=Profile%20views&color=0e75b6&style=flat" alt="Bahria University Lahore Campus" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bulcofficial" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="BULC" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bulcofficial" target="blank"><img src="https://img.shields.io/twitter/follow/bulcofficial?logo=twitter&style=for-the-badge" alt="BULC" /></a> </p>
 
 - 📫 How to reach me: **Email**
 
