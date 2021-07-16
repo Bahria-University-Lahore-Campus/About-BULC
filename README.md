@@ -18,16 +18,16 @@
 
 - 💬 Ask me about **C++,python**
 
-- 📫 How to reach me: **mriceflame@protonmail.com**
+- 📫 How to reach me: **Email**
 
-- 📄 Know about my experiences [mriceflame.github.io](mriceflame.github.io)
+- 📄 Know about us [https://www.bahria.edu.pk/bulc/](https://www.bahria.edu.pk/bulc/)
 
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 
 <a href="https://twitter.com/bulcofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
@@ -38,8 +38,8 @@
 
 <p align="center">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mriceflame&show_icons=true&locale=en&layout=compact" alt="mriceflame" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bahria-University-Lahore-Campus&show_icons=true&locale=en&layout=compact" alt="mriceflame" />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mriceflame&show_icons=true&locale=en" alt="mriceflame" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mriceflame&" alt="mriceflame" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bahria-University-Lahore-Campus&" alt="mriceflame" /></p>
