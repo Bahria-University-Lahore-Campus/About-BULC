@@ -5,18 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bahria-University-Lahore-Campus&label=Profile%20views&color=0e75b6&style=flat" alt="Bahria University Lahore Campus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bahria-University-Lahore-Campus" alt="mriceflame" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bulcofficial" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="BULC" /></a> </p>
-
-- 🌱 I’m currently learning **Python,MERN stack development**
-
-- 👯 I’m looking to collaborate on **Python, C++ projects**
-
-- 👨‍💻 All of my projects are available at
-  [https://devpost.com/mriceflame](https://devpost.com/mriceflame)
-
-- 💬 Ask me about **C++,python**
 
 - 📫 How to reach me: **Email**
 
